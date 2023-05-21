@@ -34,6 +34,7 @@
 <a href="https://github.com/Zurabkt/analitycs/blob/e27039db17ebce1b980c6e17109862a416e0345f/sql-2.JPG">скриншот 2 проекта </a> , 
 <a href="https://github.com/Zurabkt/analitycs/blob/e27039db17ebce1b980c6e17109862a416e0345f/sql-3.JPG">скриншот 2 проекта </a></p>
 
-#Контактная информация
-<p>email: zkudzeshvili@gmail.com</p>
+# Контактная информация
+
+email: zkudzeshvili@gmail.com
 <p>linkedin: https://www.linkedin.com/in/zurab-kudzeshvili-1308b646</p>
