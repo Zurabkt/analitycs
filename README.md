@@ -31,6 +31,7 @@
 - срок жизни стужента
 - изменение количества оплат, начислений и корректировок балансов во временном периоде
 - визуализация данных
+
 Ссылка на проект <a href="https://github.com/Zurabkt/analitycs/blob/e27039db17ebce1b980c6e17109862a416e0345f/sql-1.JPG">скриншот 1 проекта </a>, 
 <a href="https://github.com/Zurabkt/analitycs/blob/e27039db17ebce1b980c6e17109862a416e0345f/sql-2.JPG">скриншот 2 проекта </a> , 
 <a href="https://github.com/Zurabkt/analitycs/blob/e27039db17ebce1b980c6e17109862a416e0345f/sql-3.JPG">скриншот 2 проекта </a></p>
@@ -42,7 +43,9 @@
 - визуализация данных с помощью библиотеки Matplotlib
 - расчет необходимого количества наблюдений A/B теста
 - разультат тестирования на основании t-test'a из библиотеки Scipy
-  Ссылка на проект 
+
+Ссылка на проект <a href="https://github.com/Zurabkt/analitycs/blob/main/AB%20%D1%82%D0%B5%D1%81%D1%82%D1%8B.ipynb>AB test<a>
+  
 # Контактная информация
 
 email: zkudzeshvili@gmail.com
