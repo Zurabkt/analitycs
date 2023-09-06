@@ -44,7 +44,7 @@
 - расчет необходимого количества наблюдений A/B теста
 - разультат тестирования на основании t-test'a из библиотеки Scipy
 
-Ссылка на проект <a href="https://github.com/Zurabkt/analitycs/blob/main/AB%20%D1%82%D0%B5%D1%81%D1%82%D1%8B.ipynb>AB test<a>
+Ссылка на проект <a href="https://github.com/Zurabkt/analitycs/blob/main/AB%20%D1%82%D0%B5%D1%81%D1%82%D1%8B.ipynb>AB test</a>
   
 # Контактная информация
 
